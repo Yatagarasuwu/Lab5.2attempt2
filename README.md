@@ -22,12 +22,11 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
-To run the tests for the project, run the following command:
+There are no relevant tests for this file.
 
-```bash
-npm test
-```
 
+## Access project website
+Assuming you have the VSCode Live Server Extension, simply press ctrl+shift+P and then type "Live preview: Start server" and you will see the website.
 
 ## Accessibility Lab Answers
 
